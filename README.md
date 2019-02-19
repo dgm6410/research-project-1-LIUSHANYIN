@@ -4,6 +4,9 @@ https://shanyin.itch.io/fog-test
 This is the link where you can domnload the test
 this is the shader code
 
+https://drive.google.com/drive/folders/12rpqc9ykx5MMbPKj_N72J2SxLkmXtQTj?usp=sharing
+this is the second game link about the glass test
+In order you make the glass real, I use shader to make the material.
 
 Shader "Custom/Fog"
 {
